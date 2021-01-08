@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 15 14:48:12 2020
 
-@author: Gyanendra
+@author: Akanksha singh
 """
 
 # Independent variables here are pixels. So traditional method won't work.
